@@ -1,6 +1,6 @@
 # WPU Coding Challenge 2024
 # 4/366
-# https://www.codewars.com/kata/59ca8246d751df55cc00014c
+# https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 # way 1
 def smash(words):
